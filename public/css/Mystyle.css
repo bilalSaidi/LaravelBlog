@@ -1,0 +1,25 @@
+table , th , td , i {
+	text-align: center;
+	font-size: 16px;
+
+}
+
+
+
+table .iconDelete i{
+	color: red;
+}
+
+table .iconEdit i,
+table .iconDelete i {
+	font-weight: 200;
+}
+
+
+.table>tbody>tr>td{
+	line-height: 2.6;
+}
+.imgpostdash{
+	width: 50px;
+	height: 50px;
+}
